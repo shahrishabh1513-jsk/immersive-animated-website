@@ -71,7 +71,7 @@ This project was created to:
 
 ---
 
-## 📸 Preciew
+## 📸 Preview
 
 <img width="1889" height="845" alt="image" src="https://github.com/user-attachments/assets/6dc6324b-0a43-4411-b097-d20638f792df" />
 
@@ -88,5 +88,6 @@ This project was created to:
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
 
 
