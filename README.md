@@ -1,6 +1,5 @@
 # 🎬 Animated Website – Immersive Web Experience
 
-## 🏷️ Tags
 
 <p>
   <img src="https://img.shields.io/badge/Web-Animation-ff9800?style=for-the-badge"/>
@@ -88,6 +87,7 @@ This project was created to:
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
 
 
 
