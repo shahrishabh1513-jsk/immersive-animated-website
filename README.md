@@ -13,8 +13,7 @@
 ---
 
 ## 🌐 Live Demo
-(Add your live demo link here)
-
+https://shahrishabh1513-jsk.github.io/immersive-animated-website/
 ---
 
 ## 🚀 About The Project
@@ -89,3 +88,4 @@ This project was created to:
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
